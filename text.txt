@@ -1,0 +1,5 @@
+def teste(a, b):
+    soma = a + b
+    return soma
+
+print(teste(2,4))
